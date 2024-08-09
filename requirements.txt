@@ -1,0 +1,5 @@
+pip-installable libraries needed for this project:
+pandas
+numpy
+matplotlib
+matplotcheck
